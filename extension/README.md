@@ -81,14 +81,7 @@ src/
     └── globals.css    # Tailwind CSS styles
 ```
 
-## Roadmap
-
-This is Phase 1 of the Padlock extension. Future phases will include:
-
-- **Phase 2**: Backend integration with Convex, whitelist management
-- **Phase 3**: User accounts, cloud sync, web dashboard
-- **Phase 4**: Focus history, AI-powered suggestions
-
-## Contributing
-
-This project is currently in active development. Please see the main README for contribution guidelines.
+## Planned updates
+- Backend integration with Convex, whitelist management
+- User accounts, cloud sync, web dashboard
+- Focus history, AI-powered suggestions
