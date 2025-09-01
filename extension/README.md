@@ -82,6 +82,6 @@ src/
 ```
 
 ## Planned updates
-- Backend integration with Convex, whitelist management
+- Whitelist implementation that uses local storage (maybe with dexie)
 - User accounts, cloud sync, web dashboard
 - Focus history, AI-powered suggestions
